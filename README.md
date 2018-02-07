@@ -1,2 +1,2 @@
-# DL-Xray
-Study of lung X-rays using deep learning architectures
+# deep-learning-xray
+Classification of lung X-rays using deep neural networks
